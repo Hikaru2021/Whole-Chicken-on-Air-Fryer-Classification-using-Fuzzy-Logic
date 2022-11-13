@@ -1,0 +1,12 @@
+C:\Users\jhika\OneDrive\Documents\Schoolworks\3rd Year 1st Sem\Intelligent System\Exercise 3\Lab3_Hinolan_FuzzySystem\Lab3_Hinolan_FuzzySystem\bin\Debug\Lab3_Hinolan_FuzzySystem.exe.config
+C:\Users\jhika\OneDrive\Documents\Schoolworks\3rd Year 1st Sem\Intelligent System\Exercise 3\Lab3_Hinolan_FuzzySystem\Lab3_Hinolan_FuzzySystem\bin\Debug\Lab3_Hinolan_FuzzySystem.exe
+C:\Users\jhika\OneDrive\Documents\Schoolworks\3rd Year 1st Sem\Intelligent System\Exercise 3\Lab3_Hinolan_FuzzySystem\Lab3_Hinolan_FuzzySystem\bin\Debug\Lab3_Hinolan_FuzzySystem.pdb
+C:\Users\jhika\OneDrive\Documents\Schoolworks\3rd Year 1st Sem\Intelligent System\Exercise 3\Lab3_Hinolan_FuzzySystem\Lab3_Hinolan_FuzzySystem\obj\Debug\Lab3_Hinolan_FuzzySystem.csproj.AssemblyReference.cache
+C:\Users\jhika\OneDrive\Documents\Schoolworks\3rd Year 1st Sem\Intelligent System\Exercise 3\Lab3_Hinolan_FuzzySystem\Lab3_Hinolan_FuzzySystem\obj\Debug\Lab3_Hinolan_FuzzySystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\jhika\OneDrive\Documents\Schoolworks\3rd Year 1st Sem\Intelligent System\Exercise 3\Lab3_Hinolan_FuzzySystem\Lab3_Hinolan_FuzzySystem\obj\Debug\Lab3_Hinolan_FuzzySystem.Properties.Resources.resources
+C:\Users\jhika\OneDrive\Documents\Schoolworks\3rd Year 1st Sem\Intelligent System\Exercise 3\Lab3_Hinolan_FuzzySystem\Lab3_Hinolan_FuzzySystem\obj\Debug\Lab3_Hinolan_FuzzySystem.csproj.GenerateResource.cache
+C:\Users\jhika\OneDrive\Documents\Schoolworks\3rd Year 1st Sem\Intelligent System\Exercise 3\Lab3_Hinolan_FuzzySystem\Lab3_Hinolan_FuzzySystem\obj\Debug\Lab3_Hinolan_FuzzySystem.csproj.CoreCompileInputs.cache
+C:\Users\jhika\OneDrive\Documents\Schoolworks\3rd Year 1st Sem\Intelligent System\Exercise 3\Lab3_Hinolan_FuzzySystem\Lab3_Hinolan_FuzzySystem\obj\Debug\Lab3_Hinolan_FuzzySystem.exe
+C:\Users\jhika\OneDrive\Documents\Schoolworks\3rd Year 1st Sem\Intelligent System\Exercise 3\Lab3_Hinolan_FuzzySystem\Lab3_Hinolan_FuzzySystem\obj\Debug\Lab3_Hinolan_FuzzySystem.pdb
+C:\Users\jhika\OneDrive\Documents\Schoolworks\3rd Year 1st Sem\Intelligent System\Exercise 3\Lab3_Hinolan_FuzzySystem\Lab3_Hinolan_FuzzySystem\obj\Debug\Lab3_Hinolan_FuzzySystem.About.resources
+C:\Users\jhika\OneDrive\Documents\Schoolworks\3rd Year 1st Sem\Intelligent System\Exercise 3\Lab3_Hinolan_FuzzySystem\Lab3_Hinolan_FuzzySystem\obj\Debug\Lab3_Hinolan_FuzzySystem.MainProgram.resources
